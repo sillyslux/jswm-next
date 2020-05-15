@@ -1,0 +1,4 @@
+export const INSTALLED_APPS = 'INSTALLED_APPS';
+export const OPEN_APPS = 'OPEN_APPS';
+export const REGISTER_PLUGIN = 'REGISTER_PLUGIN';
+export const DISABLE_PLUGIN = 'DISABLE_PLUGIN';

@@ -1,0 +1,14 @@
+.taskbar {
+    color: lightslategray;
+    position: fixed;
+    bottom: 0;
+    background: #333;
+    width: 100%;
+    padding: 2px 4px;
+    box-sizing: border-box;
+}
+.taskbar .time {
+    float: right;
+    background: #2a2a2a;
+    padding: 2px 4px;
+}
